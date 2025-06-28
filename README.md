@@ -15,20 +15,21 @@ This repository contains code and Jupyter Notebooks for deep learning and comput
 - **(Optional/Extendable) Model Development:** Build and evaluate deep learning models for multi-class image classification.
 
 ## Directory Structure
-
-├── 011-image-as-data (2).ipynb # Main notebook for tensor manipulation and data exploration 
-├── data_p1/ 
-│ └── data_multiclass/ 
-│ └── train/ 
-│ ├── antelope_duiker/ 
-│ ├── bird/ 
-│ ├── blank/ 
-│ ├── civet_genet/ 
-│ ├── hog/ 
-│ ├── leopard/ 
-│ ├── monkey_prosimian/ 
-│ └── rodent/ 
-├── README.md
+```
+├── 011-image-as-data (2).ipynb # Main notebook for tensor manipulation and data exploration
+├── data_p1/ # Dataset root directory
+│ └── data_multiclass/ # Contains training images for multiple classes
+│ └── train/ # Training data directory
+│ ├── antelope_duiker/
+│ ├── bird/
+│ ├── blank/
+│ ├── civet_genet/
+│ ├── hog/
+│ ├── leopard/
+│ ├── monkey_prosimian/
+│ └── rodent/
+├── README.md 
+```
 
 ## Getting Started
 
