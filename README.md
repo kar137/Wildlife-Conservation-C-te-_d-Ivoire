@@ -77,18 +77,6 @@ This repository contains code and Jupyter Notebooks for deep learning and comput
 
 This repository and its contents are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-You **can**:
-- ✓ Download and use this code for personal, educational, or research purposes.
-- ✓ Share this repository or files publicly with attribution.
-
-You **must**:
-- ✓ Credit [WorldQuant University](https://www.wqu.edu/) for the creation of this material.
-- ✓ Provide a [link to the license](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-You **cannot**:
-- ✗ Create derivatives or adaptations of this content.
-- ✗ Use this material for commercial purposes.
-
 ## Acknowledgements
 
 - Developed as part of the [WorldQuant University](https://www.wqu.edu/) AI Lab curriculum.
